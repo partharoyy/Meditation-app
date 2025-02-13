@@ -1,50 +1,6 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![62495585-995c-45b3-b46c-c3fb3c8dfca7](https://github.com/user-attachments/assets/112c0795-3780-422c-889d-981681020c70)
+![91dcf0f9-05e4-4e88-b2ba-4c66c95b37e1](https://github.com/user-attachments/assets/f47589de-acd8-4f4a-89f6-8952bf9e0a73)
+![bde42fbf-cf38-4ccd-bbb4-817462c45e3a](https://github.com/user-attachments/assets/92771d13-1a17-46db-bde6-956e41a014bf)
+![923b42b4-1486-4f8a-b715-dfbd8acde2ab](https://github.com/user-attachments/assets/3be49c89-9b8b-4850-98c5-1da23f7505cb)
+![88a9980d-2234-4429-9931-9be8359a96ee](https://github.com/user-attachments/assets/e9266386-fc9e-4bc0-b22f-e239bc61aa75)
+![b7dd06b9-80e0-4e2b-9ff4-7c79b23ca369](https://github.com/user-attachments/assets/f91bfa2e-8c91-4932-852d-6419f40b98d5)
